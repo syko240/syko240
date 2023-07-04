@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🐢
 
 <!--
 **syko240/syko240** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=syko240&column=-1" alt="Turtle trophys">
+</div>
