@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <div align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=syko240&column=-1" alt="Turtle trophys">
+  [![trophy](https://github-profile-trophy.vercel.app/?username=syko240&theme=onedark)](https://github.com/syko240/github-profile-trophy)
 </div>
