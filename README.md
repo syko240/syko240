@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="left">
-https://github-profile-trophy.vercel.app/?username=syko240&theme=onedark)](https://github.com/syko240/github-profile-trophy
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=syko240&theme=onedark&column=-1)](https://github.com/syko240/github-profile-trophy)
+
