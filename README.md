@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
+<div align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=syko240&column=-1" alt="Turtle trophys">
 </div>
